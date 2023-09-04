@@ -4,6 +4,8 @@ This is the code used for the experiments described in the preprint: ["An active
 
 We also include parameter files for two pre-trained networks, representing each of the two strategies (active, list-linking and passive, not list-linking) describned in the paper.
 
+The code consists of two notebooks. These notebooks are immediately usable on Google Colab, as-is.
+
 The code actually used for the paper is in `main.ipynb`. This code includes a lot of additional code for running the various experiments from the paper. By contrast, the code in `simple.ipynb` (which only contains one large code cell) is a simplified version that only includes the basic code for meta-training a plastic network for transitive inference. The network structure and experimental settings are essentially idenctical between the two, with only the additional code for the various side experiments removed.
 
 If you want to understand how the system works, it is **highly** recommended to look at `simple.ipynb` first. 

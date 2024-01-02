@@ -18,7 +18,7 @@ Consult the respecitve notebooks for more details.
 
 1- Copy `net_active.dat` to `net.dat`
 
-2- In line 210 of `main.ipynb`, set EVAL to `True`
+2- In line 202 of `main.ipynb`, set EVAL to `True`
 
 3- Run `main.ipynb` (making sure that `net.dat` is in the path of your notebook)
 
@@ -26,7 +26,7 @@ This produces the figures for the active strategy (capable of list-linking). To 
 
 ### To train your own networks from scratch
 
-1- In line 210 of `main.ipynb`, set EVAL to `False`
+1- In line 202 of `main.ipynb`, set EVAL to `False`
 
 2- Run `main.ipynb` 
 

@@ -1,6 +1,6 @@
 # Meta-training plastic networks for transitive inference
 
-This is the code used for the experiments described in the preprint: ["An active neural mechanism for relational learning and fast knowledge reassembly"](https://www.biorxiv.org/content/10.1101/2023.07.27.550739), by Thomas Miconi and Kenneth Kay.
+This is the code for the paper [Neural mechanisms of relational learning and fast knowledge reassembly in plastic neural networks](https://github.com/ThomasMiconi/TransitiveInference/blob/main/TI_Short.pdf), in press at Nature Neuroscience, by Thomas Miconi and Kenneth Kay (previous preprint [here](https://www.biorxiv.org/content/10.1101/2023.07.27.550739)).
 
 We also include parameter files for two pre-trained networks, representing each of the two strategies (active, list-linking and passive, not list-linking) describned in the paper.
 
